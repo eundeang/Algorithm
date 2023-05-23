@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		334D3D1C29EEA0C400169984 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334D3D1B29EEA0C400169984 /* main.swift */; };
+		331C595C2A1CBA9800172F5B /* 12928.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331C595B2A1CBA9800172F5B /* 12928.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		331C595B2A1CBA9800172F5B /* 12928.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12928.swift; sourceTree = "<group>"; };
 		334D3D1829EEA0C400169984 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
-		334D3D1B29EEA0C400169984 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		334D3D1B29EEA0C400169984 /* 120808_uncomplete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120808_uncomplete.swift; sourceTree = "<group>"; };
+		334D3D2229EEA12100169984 /* 120810.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120810.swift; sourceTree = "<group>"; };
+		334D3D2529EEA31200169984 /* 120820.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120820.swift; sourceTree = "<group>"; };
+		334D3D2729EEA9FE00169984 /* 120811.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120811.swift; sourceTree = "<group>"; };
+		334D3D2A29EFD25C00169984 /* 120809.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120809.swift; sourceTree = "<group>"; };
+		334D3D3129EFD56800169984 /* 120812.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120812.swift; sourceTree = "<group>"; };
+		33A37ACA2A03820A00C9EEAD /* 178871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 178871.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +64,24 @@
 		334D3D1A29EEA0C400169984 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				334D3D1B29EEA0C400169984 /* main.swift */,
+				334D3D2C29EFD52E00169984 /* Programmers */,
 			);
 			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		334D3D2C29EFD52E00169984 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				334D3D2229EEA12100169984 /* 120810.swift */,
+				334D3D2729EEA9FE00169984 /* 120811.swift */,
+				334D3D2529EEA31200169984 /* 120820.swift */,
+				334D3D1B29EEA0C400169984 /* 120808_uncomplete.swift */,
+				334D3D2A29EFD25C00169984 /* 120809.swift */,
+				334D3D3129EFD56800169984 /* 120812.swift */,
+				33A37ACA2A03820A00C9EEAD /* 178871.swift */,
+				331C595B2A1CBA9800172F5B /* 12928.swift */,
+			);
+			path = Programmers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -94,6 +116,7 @@
 				TargetAttributes = {
 					334D3D1729EEA0C400169984 = {
 						CreatedOnToolsVersion = 13.3;
+						LastSwiftMigration = 1330;
 					};
 				};
 			};
@@ -120,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				334D3D1C29EEA0C400169984 /* main.swift in Sources */,
+				331C595C2A1CBA9800172F5B /* 12928.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -243,8 +266,16 @@
 		334D3D2029EEA0C400169984 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -252,8 +283,15 @@
 		334D3D2129EEA0C400169984 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;

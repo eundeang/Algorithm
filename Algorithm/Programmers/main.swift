@@ -1,19 +1,21 @@
 //
-//  12944.swift
+//  12931.swift
 //  Algorithm
 //
-//  Created by 허은정 on 2023/05/31.
+//  Created by 허은정 on 2023/06/14.
 //
 
 import Foundation
 
-func solution(_ arr:[Int]) -> Double {
-    var sum = 0.0
-    //i에 배열의 값이 하나씩 저장된다.
-    for i in arr {
-        sum = sum + Double(i)
+func solution(_ n:Int) -> Int{
+    var answer:Int = 0
+
+    var nString:String = String(n)
+
+    for(i,n) in nString.enumerated() {
+        answer += n.wholeNumberValue!
     }
-    return sum/Double(arr.count)
+    return answer
 }
 
-print(solution([1,2,3,4]))
+solution(123)

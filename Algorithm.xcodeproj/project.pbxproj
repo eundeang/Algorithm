@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		339553302A598D0E00904792 /* 12917.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3395532F2A598D0E00904792 /* 12917.swift */; };
+		339553322A5991AA00904792 /* 82612.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339553312A5991AA00904792 /* 82612.swift */; };
 		33E337652A3AF5B700D73605 /* 12947.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E337642A3AF5B700D73605 /* 12947.swift */; };
 		33E3376D2A3CA0BC00D73605 /* 12910.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E3376C2A3CA0BC00D73605 /* 12910.swift */; };
 		33E337732A3CCB2100D73605 /* 86051.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E337722A3CCB2100D73605 /* 86051.swift */; };
@@ -41,6 +42,7 @@
 		334D3D2A29EFD25C00169984 /* 120809.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120809.swift; sourceTree = "<group>"; };
 		334D3D3129EFD56800169984 /* 120812.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120812.swift; sourceTree = "<group>"; };
 		3395532F2A598D0E00904792 /* 12917.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12917.swift; sourceTree = "<group>"; };
+		339553312A5991AA00904792 /* 82612.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 82612.swift; sourceTree = "<group>"; };
 		33A37ACA2A03820A00C9EEAD /* 178871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 178871.swift; sourceTree = "<group>"; };
 		33E337572A3976EA00D73605 /* 12931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12931.swift; sourceTree = "<group>"; };
 		33E337592A3981CA00D73605 /* 12954.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12954.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				33E337782A3DF38800D73605 /* 12922.swift */,
 				33E3377A2A3DF60F00D73605 /* 70128.swift */,
 				3395532F2A598D0E00904792 /* 12917.swift */,
+				339553312A5991AA00904792 /* 82612.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				33E337792A3DF38800D73605 /* 12922.swift in Sources */,
 				33E3377B2A3DF60F00D73605 /* 70128.swift in Sources */,
 				339553302A598D0E00904792 /* 12917.swift in Sources */,
+				339553322A5991AA00904792 /* 82612.swift in Sources */,
 				33E337652A3AF5B700D73605 /* 12947.swift in Sources */,
 				33E337772A3DEDDB00D73605 /* 12903.swift in Sources */,
 				33E3376D2A3CA0BC00D73605 /* 12910.swift in Sources */,

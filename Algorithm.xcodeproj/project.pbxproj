@@ -10,6 +10,7 @@
 		33E337652A3AF5B700D73605 /* 12947.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E337642A3AF5B700D73605 /* 12947.swift */; };
 		33F8A3882A93A0D1007A8D40 /* 12926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A3872A93A0D1007A8D40 /* 12926.swift */; };
 		33F8A38A2A9764E9007A8D40 /* 12915.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A3892A9764E9007A8D40 /* 12915.swift */; };
+		33F8A38F2AA18103007A8D40 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A38E2AA18103007A8D40 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -62,12 +63,12 @@
 		33E337762A3DEDDB00D73605 /* 12903.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12903.swift; sourceTree = "<group>"; };
 		33E337782A3DF38800D73605 /* 12922.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12922.swift; sourceTree = "<group>"; };
 		33E3377A2A3DF60F00D73605 /* 70128.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 70128.swift; sourceTree = "<group>"; };
-		33F8A37E2A822798007A8D40 /* 147355_uncomplete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 147355_uncomplete.swift; sourceTree = "<group>"; };
 		33F8A3802A838161007A8D40 /* 12948.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12948.swift; sourceTree = "<group>"; };
 		33F8A3832A8A6098007A8D40 /* 81301.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 81301.swift; sourceTree = "<group>"; };
 		33F8A3852A8A73DF007A8D40 /* 147355.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 147355.swift; sourceTree = "<group>"; };
 		33F8A3872A93A0D1007A8D40 /* 12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12926.swift; sourceTree = "<group>"; };
 		33F8A3892A9764E9007A8D40 /* 12915.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12915.swift; sourceTree = "<group>"; };
+		33F8A38E2AA18103007A8D40 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 		334D3D1A29EEA0C400169984 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				33F8A38B2AA17912007A8D40 /* 인프런 알고리즘 */,
 				334D3D2C29EFD52E00169984 /* Programmers */,
 			);
 			path = Algorithm;
@@ -144,7 +146,6 @@
 				33B2C1592A67F17B00314845 /* 12950.swift */,
 				33489B942A7D17290090EF2F /* 131705.swift */,
 				33DEB8552A7D30DD00E464D9 /* 86491.swift */,
-				33F8A37E2A822798007A8D40 /* 147355_uncomplete.swift */,
 				33F8A3802A838161007A8D40 /* 12948.swift */,
 				33F8A3832A8A6098007A8D40 /* 81301.swift */,
 				33F8A3852A8A73DF007A8D40 /* 147355.swift */,
@@ -152,6 +153,15 @@
 				33F8A3892A9764E9007A8D40 /* 12915.swift */,
 			);
 			path = Programmers;
+			sourceTree = "<group>";
+		};
+		33F8A38B2AA17912007A8D40 /* 인프런 알고리즘 */ = {
+			isa = PBXGroup;
+			children = (
+				33F8A38E2AA18103007A8D40 /* main.swift */,
+			);
+			name = "인프런 알고리즘";
+			path = "인프런 알고리즘";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,6 +225,7 @@
 			files = (
 				33F8A38A2A9764E9007A8D40 /* 12915.swift in Sources */,
 				33F8A3882A93A0D1007A8D40 /* 12926.swift in Sources */,
+				33F8A38F2AA18103007A8D40 /* main.swift in Sources */,
 				33E337652A3AF5B700D73605 /* 12947.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

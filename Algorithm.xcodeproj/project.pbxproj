@@ -10,7 +10,7 @@
 		33E337652A3AF5B700D73605 /* 12947.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E337642A3AF5B700D73605 /* 12947.swift */; };
 		33F8A3882A93A0D1007A8D40 /* 12926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A3872A93A0D1007A8D40 /* 12926.swift */; };
 		33F8A38A2A9764E9007A8D40 /* 12915.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A3892A9764E9007A8D40 /* 12915.swift */; };
-		33F8A38F2AA18103007A8D40 /* section2_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A38E2AA18103007A8D40 /* section2_1.swift */; };
+		33F8A3932AA7FB6D007A8D40 /* section2_1_solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F8A3922AA7FB6D007A8D40 /* section2_1_solution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -69,6 +69,8 @@
 		33F8A3872A93A0D1007A8D40 /* 12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12926.swift; sourceTree = "<group>"; };
 		33F8A3892A9764E9007A8D40 /* 12915.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12915.swift; sourceTree = "<group>"; };
 		33F8A38E2AA18103007A8D40 /* section2_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = section2_1.swift; sourceTree = "<group>"; };
+		33F8A3902AA19E42007A8D40 /* section2_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = section2_2.swift; sourceTree = "<group>"; };
+		33F8A3922AA7FB6D007A8D40 /* section2_1_solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = section2_1_solution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,8 @@
 			isa = PBXGroup;
 			children = (
 				33F8A38E2AA18103007A8D40 /* section2_1.swift */,
+				33F8A3902AA19E42007A8D40 /* section2_2.swift */,
+				33F8A3922AA7FB6D007A8D40 /* section2_1_solution.swift */,
 			);
 			name = "인프런 알고리즘";
 			path = "인프런 알고리즘";
@@ -225,8 +229,8 @@
 			files = (
 				33F8A38A2A9764E9007A8D40 /* 12915.swift in Sources */,
 				33F8A3882A93A0D1007A8D40 /* 12926.swift in Sources */,
-				33F8A38F2AA18103007A8D40 /* section2_1.swift in Sources */,
 				33E337652A3AF5B700D73605 /* 12947.swift in Sources */,
+				33F8A3932AA7FB6D007A8D40 /* section2_1_solution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

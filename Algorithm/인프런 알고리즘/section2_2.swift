@@ -7,9 +7,14 @@
 
 import Foundation
 
-let T = readLine()
-var first = readLine()!.components(separatedBy: " ")
-var second =  readLine()!.components(separatedBy: " ").sorted()
+let t = readLine()!
 
-var k = first[3]
-print(second)
+for i in 1...Int(t)!{
+    var first = readLine()!.components(separatedBy: " ")
+    var second =  readLine()!.components(separatedBy: " ").sorted()
+    
+    var k = first[3]
+    
+    
+    print("#\(i) \(second[Int(k)!])" )
+}

@@ -3,4 +3,129 @@
    uuid = "C738310D-0692-4146-9513-1F2F42017775"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE223936-0923-4AEF-92D9-7C56723CC272"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Algorithm/baekjoon/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949e33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949e33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949e33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949e52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1880">
+               </Location>
+               <Location
+                  uuid = "AE223936-0923-4AEF-92D9-7C56723CC272 - e1d92fa8ef949e52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Algorithm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heoeunjeong/Desktop/Algorithm/Algorithm/baekjoon/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
